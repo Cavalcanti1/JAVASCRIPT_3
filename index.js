@@ -15,7 +15,7 @@ if(mes_atual == 0 || mes_atual == 1 || mes_atual == 2) {
 else if(mes_atual == 3 || mes_atual == 4 || mes_atual == 5) {
     console.log("As chuvas de meteoros do segundo trimestre são:\n\n"+meteoros_trimestre_dois);
 }
-else if data_atual == 6 || mes_atual == 7 || mes_atual == 8) {
+else if (mes_atual == 6 || mes_atual == 7 || mes_atual == 8) {
     console.log("As chuvas de meteoros do terceiro trimestre são:\n\n"+meteoros_trimestre_tres);
 }
 else if(mes_atual == 9 || mes_atual == 10 || mes_atual == 11) {
